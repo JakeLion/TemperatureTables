@@ -7,3 +7,5 @@ Newest Version: 2.0.0
 All releases are available only as windows binaries (.exe) at this time.
 
 Created with the C programming language.
+
+Read more about this at http://jakesystems.us/products/ 
